@@ -6,6 +6,7 @@ documentation = "https://docs.rs/desuagar/0.1.0"
 license = "Apache-2.0"
 description = "Allow for Desugaring of various Rust constructs"
 homepage = "https://github.com/muppi090909/desugar/tree/main"
+keywords = ["parser"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
